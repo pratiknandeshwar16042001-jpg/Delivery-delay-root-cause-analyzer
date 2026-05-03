@@ -1,0 +1,7 @@
+phase,milestone_count,avg_milestone_delay_days,max_milestone_delay_days,delayed_milestones
+Execution,200,6.41,19,175
+Approval,200,6.24,20,176
+Signoff,200,6.22,50,130
+Testing,200,4.005,14,162
+Planning,200,3.0,11,168
+Initiation,200,1.67,9,130

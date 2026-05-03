@@ -1,0 +1,6 @@
+business_unit,total_projects,delayed_projects,avg_delay_days,high_risk_projects
+Customer Experience,38,34,28.5,20
+Finance,19,18,28.263157894736842,6
+Operations,56,49,21.071428571428573,21
+Sales,42,41,27.238095238095237,23
+Technology,45,39,20.955555555555556,18

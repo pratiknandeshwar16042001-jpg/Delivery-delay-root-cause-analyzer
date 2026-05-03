@@ -1,0 +1,6 @@
+project_type,total_projects,delayed_projects,avg_delay_days,major_delay_pct
+Client Implementation,30,28,23.6,0.36666666666666664
+IT Delivery,42,38,28.904761904761905,0.4523809523809524
+Operations Improvement,60,51,18.25,0.13333333333333333
+Product Launch,24,23,25.375,0.2916666666666667
+Transformation,44,41,28.65909090909091,0.4090909090909091

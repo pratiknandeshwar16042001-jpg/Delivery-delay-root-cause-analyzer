@@ -1,0 +1,89 @@
+project_id,project_name,project_type,business_unit,delay_days,risk_score,unresolved_issue_count,late_scope_change_flag
+P132,IT Delivery Australia Program 132,IT Delivery,Finance,45,10,5,0
+P102,Transformation UK Program 102,Transformation,Sales,59,9,3,1
+P001,IT Delivery UK Program 001,IT Delivery,Sales,44,9,4,0
+P119,Client Implementation UK Program 119,Client Implementation,Finance,37,9,4,0
+P033,Operations Improvement UK Program 033,Operations Improvement,Operations,30,9,2,1
+P155,Transformation Australia Program 155,Transformation,Operations,27,9,4,1
+P025,Operations Improvement Australia Program 025,Operations Improvement,Technology,24,9,4,0
+P151,Client Implementation Europe Program 151,Client Implementation,Sales,15,9,5,0
+P052,Operations Improvement Australia Program 052,Operations Improvement,Sales,68,8,1,1
+P137,IT Delivery UK Program 137,IT Delivery,Customer Experience,61,8,4,0
+P182,Transformation Europe Program 182,Transformation,Customer Experience,55,8,2,1
+P037,Client Implementation UK Program 037,Client Implementation,Operations,47,8,3,1
+P066,Client Implementation UK Program 066,Client Implementation,Sales,45,8,2,0
+P079,IT Delivery UK Program 079,IT Delivery,Technology,38,8,1,1
+P099,Transformation Australia Program 099,Transformation,Customer Experience,37,8,4,0
+P090,Operations Improvement UK Program 090,Operations Improvement,Operations,21,8,2,0
+P045,IT Delivery UK Program 045,IT Delivery,Technology,19,8,4,0
+P130,Client Implementation Europe Program 130,Client Implementation,Operations,12,8,4,0
+P181,Transformation Europe Program 181,Transformation,Customer Experience,52,7,4,0
+P197,IT Delivery Europe Program 197,IT Delivery,Customer Experience,51,7,0,1
+P120,Product Launch UK Program 120,Product Launch,Operations,49,7,1,0
+P007,Transformation Europe Program 007,Transformation,Sales,48,7,2,0
+P061,IT Delivery UK Program 061,IT Delivery,Sales,47,7,1,1
+P030,Transformation Europe Program 030,Transformation,Customer Experience,46,7,0,1
+P179,IT Delivery Australia Program 179,IT Delivery,Operations,44,7,2,1
+P159,Client Implementation Australia Program 159,Client Implementation,Operations,43,7,2,1
+P185,Product Launch Europe Program 185,Product Launch,Customer Experience,42,7,0,0
+P065,Transformation Europe Program 065,Transformation,Operations,40,7,3,0
+P074,Transformation UK Program 074,Transformation,Sales,39,7,1,1
+P015,Operations Improvement Europe Program 015,Operations Improvement,Technology,34,7,2,0
+P019,Operations Improvement UK Program 019,Operations Improvement,Customer Experience,33,7,2,0
+P112,Client Implementation Australia Program 112,Client Implementation,Operations,29,7,3,0
+P087,IT Delivery UK Program 087,IT Delivery,Operations,26,7,2,0
+P168,Product Launch UK Program 168,Product Launch,Customer Experience,25,7,3,0
+P062,Operations Improvement Europe Program 062,Operations Improvement,Sales,24,7,0,0
+P129,Operations Improvement UK Program 129,Operations Improvement,Finance,24,7,1,0
+P190,Product Launch UK Program 190,Product Launch,Sales,17,7,2,0
+P115,Operations Improvement Europe Program 115,Operations Improvement,Customer Experience,9,7,1,0
+P187,IT Delivery UK Program 187,IT Delivery,Sales,63,6,1,0
+P175,IT Delivery Europe Program 175,IT Delivery,Sales,54,6,0,0
+P009,IT Delivery UK Program 009,IT Delivery,Technology,53,6,1,1
+P004,Client Implementation Europe Program 004,Client Implementation,Customer Experience,52,6,3,0
+P050,Transformation Europe Program 050,Transformation,Technology,48,6,2,0
+P136,Transformation UK Program 136,Transformation,Customer Experience,46,6,1,1
+P071,Product Launch Europe Program 071,Product Launch,Technology,45,6,0,0
+P100,Operations Improvement UK Program 100,Operations Improvement,Customer Experience,43,6,1,0
+P104,Operations Improvement Australia Program 104,Operations Improvement,Customer Experience,43,6,2,0
+P176,IT Delivery UK Program 176,IT Delivery,Technology,43,6,2,0
+P013,IT Delivery UK Program 013,IT Delivery,Customer Experience,40,6,2,0
+P088,Transformation UK Program 088,Transformation,Operations,40,6,1,0
+P047,Client Implementation UK Program 047,Client Implementation,Technology,39,6,3,0
+P114,Product Launch UK Program 114,Product Launch,Technology,36,6,3,0
+P094,Client Implementation UK Program 094,Client Implementation,Customer Experience,34,6,1,0
+P053,Operations Improvement Europe Program 053,Operations Improvement,Technology,33,6,1,1
+P069,Product Launch UK Program 069,Product Launch,Finance,33,6,3,0
+P042,IT Delivery Europe Program 042,IT Delivery,Operations,30,6,2,0
+P106,Product Launch Australia Program 106,Product Launch,Customer Experience,30,6,2,0
+P140,Transformation UK Program 140,Transformation,Technology,29,6,3,0
+P076,Client Implementation UK Program 076,Client Implementation,Sales,28,6,2,0
+P144,IT Delivery UK Program 144,IT Delivery,Sales,27,6,1,0
+P014,IT Delivery Europe Program 014,IT Delivery,Sales,26,6,1,0
+P041,Transformation Europe Program 041,Transformation,Operations,26,6,3,0
+P082,Transformation UK Program 082,Transformation,Technology,26,6,1,1
+P189,Operations Improvement UK Program 189,Operations Improvement,Technology,26,6,2,0
+P017,Operations Improvement UK Program 017,Operations Improvement,Operations,25,6,2,1
+P028,Product Launch Europe Program 028,Product Launch,Technology,25,6,1,0
+P077,Transformation Europe Program 077,Transformation,Customer Experience,25,6,3,0
+P186,Product Launch Australia Program 186,Product Launch,Sales,23,6,0,0
+P002,IT Delivery Europe Program 002,IT Delivery,Operations,22,6,0,0
+P051,Product Launch UK Program 051,Product Launch,Operations,22,6,2,0
+P089,Operations Improvement Australia Program 089,Operations Improvement,Sales,22,6,1,0
+P097,Transformation UK Program 097,Transformation,Sales,22,6,2,0
+P154,Operations Improvement UK Program 154,Operations Improvement,Sales,22,6,1,0
+P070,Client Implementation Europe Program 070,Client Implementation,Sales,21,6,0,0
+P172,Product Launch Europe Program 172,Product Launch,Operations,21,6,1,0
+P056,Transformation Europe Program 056,Transformation,Finance,20,6,0,0
+P138,Product Launch Australia Program 138,Product Launch,Customer Experience,20,6,3,0
+P143,Client Implementation UK Program 143,Client Implementation,Customer Experience,19,6,1,0
+P064,Transformation Australia Program 064,Transformation,Technology,18,6,3,0
+P109,Transformation Europe Program 109,Transformation,Sales,18,6,2,0
+P165,Transformation UK Program 165,Transformation,Operations,17,6,0,0
+P072,Client Implementation UK Program 072,Client Implementation,Technology,15,6,2,0
+P141,IT Delivery UK Program 141,IT Delivery,Operations,12,6,1,0
+P103,IT Delivery UK Program 103,IT Delivery,Technology,10,6,3,1
+P161,Client Implementation Europe Program 161,Client Implementation,Sales,10,6,2,0
+P024,Product Launch Australia Program 024,Product Launch,Operations,9,6,0,0
+P135,Transformation Europe Program 135,Transformation,Finance,9,6,2,0
+P123,IT Delivery UK Program 123,IT Delivery,Sales,3,6,2,0
